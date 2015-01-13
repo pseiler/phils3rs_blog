@@ -1,0 +1,80 @@
+---
+layout: post
+title: Ubuntu (12.04) per PXE mit Internetrepository installieren
+categories:
+- Linux
+permalink: /archives/19-Ubuntu-12.04-per-PXE-mit-Internetrepository-installieren.html
+s9y_link: http://blog.phils3r.de/index.php?/archives/19-Ubuntu-12.04-per-PXE-mit-Internetrepository-installieren.html
+date: 2013-01-22 16:32:00.000000000 +01:00
+---
+Da ich vor kurzem für meine Firma in unserer Testumgebung ein Ubuntu 12.04.1 über PXE installieren musste, ich das aber zuvor noch nich gemacht hatte, hab ich mich mal auf die Suche in der weiten Welt des Internets begeben und hab folgendes herausgefunden.
+
+Es gibt wohl einen bereitgestellten Tarball von Canocial der einen kernel und angepasste Initrd bereitstellt die man dann per PXE ausliefern kann. Samt Bootzeile für den PXE Server.
+
+Diese hab ich dann zumindest teilweise genommen und auf unserem PXE Server gepackt.
+
+Um das auch so zu konfigurieren benötigen wir erst Mal den Tarball:
+[netboot.tar.gz](http://archive.ubuntu.com/ubuntu/dists/precise/main/installer-amd64/current/images/netboot/netboot.tar.gz)
+
+Diesen einfach runterladen und auspacken.
+Der Tarball enthält dann folgendes:
+
+{% highlight bash %}
+philipp@newton ~/Downloads % tar tf netboot.tar.gz
+./
+./pxelinux.0
+./version.info
+./pxelinux.cfg
+./ubuntu-installer/
+./ubuntu-installer/amd64/
+./ubuntu-installer/amd64/pxelinux.0
+./ubuntu-installer/amd64/initrd.gz
+./ubuntu-installer/amd64/boot-screens/
+[...]
+./ubuntu-installer/amd64/pxelinux.cfg/
+./ubuntu-installer/amd64/pxelinux.cfg/default
+./ubuntu-installer/amd64/linux
+{% endhighlight %}
+
+Wichtig für uns sind eigentlich nur die beiden Dateien:
+{% highlight bash %}
+./ubuntu-installer/amd64/initrd.gz
+./ubuntu-installer/amd64/linux
+
+{% endhighlight %}
+Diese kopiert man auf den bereits vorhandenen PXE Server und reiht ihn in die Kernel/Initrd Hierarchie ein:
+
+Bei mir sieht das folgendermaßen aus
+{% highlight bash %}
+/tftpboot/dists/$DISTRIBUTION/$ARCH/
+{% endhighlight %}
+
+Konkret für Ubuntu wäre das der Pfad
+{% highlight bash %}
+/tftpboot/dists/ubuntu12.04/x86_64/linux
+/tftpboot/dists/ubuntu12.04/x86_64/initrd.gz
+{% endhighlight %}
+
+In der PXE Konfiguration hat man eigentlich auch immer eine Datei für den **default** Booteintrag mit einem Bootloader Menu **menu.c32** oder eine für Vesa/Grafikbetrieb **vesamenu.c32**
+
+Die Datei liegt in der Regel hier:
+{% highlight bash %}
+/tftpboot/pxelinux.cfg/default
+{% endhighlight %}
+
+Hier tragen wir die Zeilen für Ubuntu ein, um später mit diesen Kernel und dessen speziellen Parameter zu starten:
+
+{% highlight bash %}
+label Ubunutu12.04.01expert
+menu label Ubuntu 12.04.1 Expert Installation
+kernel dists/ubuntu12.04/x86_64/linux
+append priority=low vga=788 initrd=dists/ubuntu12.04/x86_64/initrd.gz --
+{% endhighlight %}
+
+Wurden die beiden Dateien korrekt platziert und die pxe Konfiguration richtig gemacht kann man auch schon booten.
+
+Der Rest ist Teil des installers. Hier kann ausgewählt werden, ob man Desktop installiert, den Server, Festplattenkonfiguration, Sprache, Keyboard Layout. Alles was man von einem Installer so kennt.
+
+Eine automatische Installation ist ohne weitere Konfiguration und Kernel Parametern leider nicht möglich. Auch muss man um komplette lokal zu installieren, den Verzeichnisbaum aus einer Iso Datei kopieren und die z.B über einen Webserver zur Verfügung zu stellen. Den Pfad im Netzwerk gibt man dann beim auswählen des Repository Mirrors im Installer an.
+
+Bei Ergänzungen könnt ihr mir gerne eine E-Mail schreiben
