@@ -520,6 +520,10 @@ aside#sidebar p.repo-owner a {
   margin-bottom: 40px;
 }
 
+a.blog_title {
+color: #fff
+}
+
 a.link {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 24px;
