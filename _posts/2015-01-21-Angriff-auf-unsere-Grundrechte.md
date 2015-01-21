@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Angriff auf unsere Grundrechte
+title: Schamloser Angriff auf unsere Grundrechte
 categories:
 - Politik
 date: 2015-01-21 22:26:00.000000000 +02:00
