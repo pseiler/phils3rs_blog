@@ -3,8 +3,6 @@ layout: post
 title: Linux als Alternative zu Microsoft Betriebssystemen
 categories:
 - Technik
-permalink: /archives/7-Linux-als-Alternative-zu-Microsoft-Betriebssystemen.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/7-Linux-als-Alternative-zu-Microsoft-Betriebssystemen.html
 date: 2012-04-25 03:18:00.000000000 +02:00
 ---
 Ich hab diesen [Artikel](http://www.heise.de/tp/artikel/36/36245/1.html) von Heise Telepolis gelesen und ich muss sagen, das ich heulen könnte... Vor Freude.

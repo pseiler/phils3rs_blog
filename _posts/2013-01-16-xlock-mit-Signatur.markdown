@@ -3,8 +3,6 @@ layout: post
 title: xlock mit Signatur
 categories:
 - Linux
-permalink: /archives/18-xlock-mit-Signatur.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/18-xlock-mit-Signatur.html
 date: 2013-01-16 13:03:00.000000000 +01:00
 ---
 Ich hab vor längerer Zeit ein tolles Feature für xlock unter Linux gefunden. xlock ist ein sehr minimalistischer Screenlocker, geeignet für xfce4 oder kleine Windowmanager wie z.B. i3.

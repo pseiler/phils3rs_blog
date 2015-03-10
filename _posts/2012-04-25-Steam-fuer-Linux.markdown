@@ -3,8 +3,6 @@ layout: post
 title: Steam für Linux
 categories:
 - Gaming
-permalink: /archives/8-Steam-fuer-Linux.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/8-Steam-fuer-Linux.html
 date: 2012-04-25 10:23:00.000000000 +02:00
 ---
 Mittlerweile dürft es mir echt egal sein, ob das noch portiert wird, aber ich bin echt ziemlich überrascht.

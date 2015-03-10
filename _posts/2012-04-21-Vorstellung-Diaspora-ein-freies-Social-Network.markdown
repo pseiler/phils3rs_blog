@@ -3,8 +3,6 @@ layout: post
 title: 'Vorstellung: Diaspora - ein freies Social Network'
 categories:
 - Privat
-permalink: /archives/3-Vorstellung-Diaspora-ein-freies-Social-Network.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/3-Vorstellung-Diaspora-ein-freies-Social-Network.html
 date: 2012-04-21 11:20:00.000000000 +02:00
 ---
 Heute hab ich mir Diaspora als freie Alternative zu Facebook, Google+ usw angeschaut.

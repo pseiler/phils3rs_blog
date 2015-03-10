@@ -3,8 +3,6 @@ layout: post
 title: 'Humble Indie Bundle #5'
 categories:
 - Gaming
-permalink: /archives/12-Humble-Indie-Bundle-5.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/12-Humble-Indie-Bundle-5.html
 date: 2012-06-06 16:34:00.000000000 +02:00
 ---
 Ich habs mir natürlich nicht nehmen lassen, diesmal nicht auch beim [Humble Indie Bundle #5](https://www.humblebundle.com/) mitzumachen. Diesmal sind echt grandiose Games mit bei. Das wären:

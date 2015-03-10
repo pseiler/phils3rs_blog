@@ -3,8 +3,6 @@ layout: post
 title: Ubuntu (12.04) per PXE mit Internetrepository installieren
 categories:
 - Linux
-permalink: /archives/19-Ubuntu-12.04-per-PXE-mit-Internetrepository-installieren.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/19-Ubuntu-12.04-per-PXE-mit-Internetrepository-installieren.html
 date: 2013-01-22 16:32:00.000000000 +01:00
 ---
 Da ich vor kurzem für meine Firma in unserer Testumgebung ein Ubuntu 12.04.1 über PXE installieren musste, ich das aber zuvor noch nich gemacht hatte, hab ich mich mal auf die Suche in der weiten Welt des Internets begeben und hab folgendes herausgefunden.

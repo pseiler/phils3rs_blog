@@ -3,8 +3,6 @@ layout: post
 title: Freibeuter AG - Creative Commons Lizenz
 categories:
 - Privat
-permalink: /archives/11-Freibeuter-AG-Creative-Commons-Lizenz.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/11-Freibeuter-AG-Creative-Commons-Lizenz.html
 date: 2012-05-31 06:25:00.000000000 +02:00
 ---
 Um zu verhindern, dass dieser Blog als tot gehandelt wird, hau ich mal nene Minipost raus, bis mir mal wieder ein gutes Thema zu bloggen einfällt.

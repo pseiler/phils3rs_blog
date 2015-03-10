@@ -3,8 +3,6 @@ layout: post
 title: Privatisierung der Überwachung
 categories:
 - Netzpolitik
-permalink: /archives/15-Privatisierung-der-UEberwachung.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/15-Privatisierung-der-UEberwachung.html
 date: 2012-07-17 13:23:00.000000000 +02:00
 ---
 Eine kleine News zwischendurch. Ich glaub es hackt. Facebook überwacht jetzt private Chats. Jeder meckert wenn der Staat Überwachungsmaßnahmen durchführen möchte.

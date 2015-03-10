@@ -3,8 +3,6 @@ layout: post
 title: Counter-Strike 1.6 unter Linux
 categories:
 - Gaming
-permalink: /archives/20-Counter-Strike-1.6-unter-Linux.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/20-Counter-Strike-1.6-unter-Linux.html
 date: 2013-01-28 18:19:00.000000000 +01:00
 ---
 Ich habs ja schon mal in einem anderen Post erwähnt. Nun entspricht es endlich der Realität. Ich kann unter Linux mein geliebtes CS 1.6 zocken. -> Nativ. 

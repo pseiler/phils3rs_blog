@@ -3,8 +3,6 @@ layout: post
 title: Anschauliches Video zum Thema Überwachungsstaat
 categories:
 - Politik
-permalink: /archives/30-Anschauliches-Video-zum-Thema-UEberwachungsstaat.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/30-Anschauliches-Video-zum-Thema-UEberwachungsstaat.html
 date: 2013-07-29 12:48:57.000000000 +02:00
 ---
 Durch [Fefe](http://blog.fefe.de/?ts=af0bbca3) bin ich auf folgendes Video gestoßen:

@@ -3,8 +3,6 @@ layout: post
 title: GEMA und Youtube - beide bleiben stur
 categories:
 - Privat
-permalink: /archives/4-GEMA-und-Youtube-beide-bleiben-stur.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/4-GEMA-und-Youtube-beide-bleiben-stur.html
 date: 2012-04-23 02:37:00.000000000 +02:00
 ---
 Ich bin ja kein Freund von Googles Machenschaften, aber noch weniger mag ich die GEMA.

@@ -3,8 +3,6 @@ layout: post
 title: Start in den Blog
 categories:
 - Privat
-permalink: /archives/1-Start-in-den-Blog.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/1-Start-in-den-Blog.html
 date: 2012-04-19 05:10:00.000000000 +02:00
 ---
 Hallo an alle da draußen,

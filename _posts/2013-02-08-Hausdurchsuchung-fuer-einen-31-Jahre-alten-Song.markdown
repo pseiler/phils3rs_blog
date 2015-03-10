@@ -3,8 +3,6 @@ layout: post
 title: Hausdurchsuchung für einen 31 Jahre alten Song
 categories:
 - Privat
-permalink: /archives/21-Hausdurchsuchung-fuer-einen-31-Jahre-alten-Song.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/21-Hausdurchsuchung-fuer-einen-31-Jahre-alten-Song.html
 date: 2013-02-08 14:16:00.000000000 +01:00
 ---
 Grad auf Diaspora gefunden. Danke an Anna Blume:

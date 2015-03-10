@@ -3,8 +3,6 @@ layout: post
 title: Meine Stellung zum Urheberrecht
 categories:
 - Politik
-permalink: /archives/10-Meine-Stellung-zum-Urheberrecht.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/10-Meine-Stellung-zum-Urheberrecht.html
 date: 2012-05-12 10:53:00.000000000 +02:00
 ---
 Hab mal wieder auf Spiegel gestöbert und hab mir diesen [Gastbeitrag](http://www.spiegel.de/politik/deutschland/volker-kauder-verteidigt-das-urheberrecht-a-832262.html) über das Uhrheberrecht durchgelesen.

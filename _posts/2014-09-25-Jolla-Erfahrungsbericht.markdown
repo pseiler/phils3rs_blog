@@ -3,8 +3,6 @@ layout: post
 title: Jolla Erfahrungsbericht
 categories:
 - Linux
-permalink: /archives/34-Jolla-Erfahrungsbericht.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/34-Jolla-Erfahrungsbericht.html
 date: 2014-09-25 19:39:28.000000000 +02:00
 ---
 Kürzlich hab ich mir ein neues Smartphone zugelegt, da mein HTC One Mini einfach ohne Grund den Geist aufgegeben hat. Es handelt sich um ein [Jolla Phone](http://jolla.com/). Nach langem überlegen fiel meine Wahl auf dieses Gerät, da die Akkulaufzeit als recht gut empfunden wurde und es ein natives Linux mit Android Support als System nutzt. Nach dem etwas holprigen Einstieg bzgl. Uptades und Android Apps schlägt es sich hervorragend. Jede app die mir wichtig war gibt es nativ:

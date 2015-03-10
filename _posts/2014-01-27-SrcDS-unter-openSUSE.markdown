@@ -3,8 +3,6 @@ layout: post
 title: SrcDS unter openSUSE
 categories:
 - Gaming
-permalink: /archives/31-SrcDS-unter-openSUSE.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/31-SrcDS-unter-openSUSE.html
 date: 2014-01-27 18:30:00.000000000 +01:00
 ---
 Zeit mal wieder was zu posten.
