@@ -2,8 +2,10 @@ name: Phils3rs Blog
 description: Geistige Ergüsse aus Schrobenhausen
 markdown: redcarpet
 baseurl: ""
-url: "http://blog.phils3r.de/"
+url: "http://blog.phils3r.de"
 encoding: "utf-8"
 paginate: 8
 timezone: Europe/Berlin
 paginate_path: "/page:num/"
+gems:
+  - jekyll-sitemap
