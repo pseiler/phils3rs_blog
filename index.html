@@ -9,7 +9,9 @@ title: Phils3rs Blog
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
     <li><span><font size=+1>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}"><b>{{ post.title }}</b></a></font>
-      {{ post.excerpt }}<br>
+      {{ post.excerpt }}
+      <a href="{{ post.url }}"><font size=-1>weiterlesen...</font></a>
+      <br>
     </li>
   {% endfor %}
 </ul>
