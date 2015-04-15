@@ -454,8 +454,8 @@ header {
   padding-top: 40px;
   padding-bottom: 40px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
-  border-bottom: solid 1px #275da1;
+  background: #7fd028 url(../images/header-bg.jpg) 0 0 repeat-x;
+  border-bottom: solid 1px #7ab222;
 }
 
 header h1 {
@@ -847,7 +847,7 @@ footer a:hover {
     font-size: 13px;
     line-height: 1;
     background-color: #cbff93;
-    color: #2879d0;
+    color: #7fd028;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     border-radius: 5px;
