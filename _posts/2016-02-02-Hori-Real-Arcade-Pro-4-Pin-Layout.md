@@ -24,7 +24,7 @@ Dieses Panel hat zwei kleine Kabelbäume. Einmal eins mit 9 Litzen, das andere m
 
 4polig:
 
-1.  PS Button
+1.  PS Button (lila)
 2.  L3
 3.  n/A
 4.  PS3/4 Switch
