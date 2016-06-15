@@ -20,7 +20,7 @@ Es wird eine Kombination aus drei Komponenten verwendet:
 
 Zuerst besucht man die Seite [VODcutter](ttp://twitch.center/vodcutter) um die Downloadliste zu generien. Dazu sucht ihr die ID oder den ganzen Link zum VoD/Video raus und fügt sie ins erste Feld der Seite.
 
-Die Felder Start- und Endzeit müssen richtig ausgefüllt werden. Um das ganze Video abzudecken, sollte bei Startzeit 0:00:00h eingegeben werden, und bei der Endzeit ein beliebiger Wert, der länger als das Video ist. Bei einem 4:45:12h langen Video also entweder genau den Wert, oder irgendwas höheres. Beispielsweise 10:00:00h.
+Die Felder Start- und Endzeit müssen richtig ausgefüllt werden. Um das ganze Video abzudecken, sollte bei Startzeit 0:00:00h eingegeben werden, und bei der Endzeit ein beliebiger Wert, der länger als das Video ist. Bei einem 4:45:12h langen Video entweder genau den Wert, oder irgendwas höheres. Beispielsweise 10:00:00h.
 Nun wählt man noch die Qualität für den Download (in der Regel möchte man "Source" Qualität).
 Anschließend klickt man auf "Generate" und eine Liste von Dateien und eine Export Möglichkeit erscheint. Wir möchten die einzelnen Stücke als Liste von Links, also wählen wir direkt unter *Export* *"URLs"*
 
@@ -39,10 +39,10 @@ Die Zieldateien sehen dann so aus:
 {% highlight bash %}
 1.ts
 2.ts
+[...]
 {% endhighlight %}
 
-Nun ist es an der Reihe, aus den einzelnen Dateien, eine große ganze zu machen. Dazu benötigen wir "FFmpeg". FFmpeg ist ein Video und Audio De- und Encoder. Mit FFmpeg kann nahezu jede Audio oder Video Datei in ein anderes Format convertiert werden. Auch beherrscht es das aneinanderreihen von MPEG Streams, was wir für unser aktuelles Projekt benötigen. Beim Aneinanderheften der einzelnen Dateien, wird im Falle der Videospur nichts konvertiert, sondern nur wirklich aneinandergeheftet. Das ist durch MPEG möglich, da es auch aus dem Fernsehbereich stammt, und somit beim abspielen nicht wissen muss, an welcher Stelle der Datei es sich gerade befindet. Das ist widerum auch für Streaming interessant. Eigentlich müsste das auch mit Audio funktionieren, nur fehlt der Ton in der aneinandergehefteten Datei dann. Das umgehen wir, indem wir beim einanderheften die Audiospur neu als MP3 convertieren. Vorher ist es interessant, welche maximale Audioqualität die Quelldateien enhalten. An der Stelle kommt "mediainfo" zum Einsatz. Das sollte sich in allen gängigen Linuxdistributionen in der Paketverwaltung befinden. 
-
+Nun ist es an der Reihe, aus den einzelnen Dateien, eine große ganze zu machen. Dazu benötigen wir "FFmpeg". FFmpeg ist ein Video und Audio De- und Encoder. Mit FFmpeg kann nahezu jede Audio oder Video Datei in ein anderes Format convertiert werden. Auch beherrscht es das aneinanderreihen von MPEG Streams, was wir für unser aktuelles Projekt benötigen. Beim Aneinanderheften der einzelnen Dateien, wird im Falle der Videospur nichts konvertiert, sondern nur wirklich aneinandergeheftet. Das ist durch den MPEG Codec möglich. Da dieser aus dem Fernsehbereich stammt und somit beim abspielen nicht wissen muss, an welcher Stelle der Datei es sich gerade befindet. Das ist widerum auch für Streaming interessant. Eigentlich müsste das auch mit Audio funktionieren, nur fehlt der Ton in der aneinandergehefteten Datei dann. Das umgehen wir, indem wir beim einanderheften die Audiospur neu als MP3 convertieren. Vorher ist es interessant, welche maximale Audioqualität die Quelldateien enhalten. An der Stelle kommt "mediainfo" zum Einsatz. Das sollte sich in allen gängigen Linuxdistributionen in der Paketverwaltung befinden. 
 
 {% highlight bash %}
 mediainfo /pfad/zu/einem/Videostueck
@@ -54,6 +54,7 @@ Hat man die Audio Bitrate herausgefunden, können die Dateien zusammengefügt we
 
 Bevor wir die Dateien zusammenfügen, benötigen wir zuerst den richtigen String für den späteren FFmpeg Befehl um die Dateien anzugeben.
 Dazu hab ich folgendes Script geschrieben:
+(Da gibt es bestimmt eine bessere Lösung. Wenn jemand was weiß, schreibt mir ne E-Mail.)
 
 {% highlight bash %}
 #!/bin/bash
