@@ -746,8 +746,8 @@ ol {
   padding-left: 3px;
 }
 
-li {
-  padding-top: 40px;
+#main-content li {
+      padding-top: 40px;
 }
 
 dl dd {
