@@ -11,7 +11,7 @@ date: 2016-07-01 17:45:00.000000000 +02:00
 Aktuell hab ich wieder eine größere Motivation meinen Blog zu betreiben.
 Habe für einen Kumpel einen Padhack für seinen aktuellen Arcade Stick installiert.
 Mit Padhack ist die Schaltplatine (PCB) eines Gamepads gemeint, welche modifiziert wurde, um sie mit Arcade Hardware zu nutzen. 
-Prinzipiell unterscheidet sich das Modding nicht von gewöhnlichen Arcade Stick Umbauten. Der einzige Unterschied besteht darin, das die Lötstellen für den Kabelbaum müssen im Vorfeld präpariert werden müssen. Außerdem sind die Lötstellen nicht immer perfekt fürs Löten ausgelegt.
+Prinzipiell unterscheidet sich das Modding nicht von gewöhnlichen Arcade Stick Umbauten. Der einzige Unterschied besteht darin, dass die Lötstellen für den Kabelbaum müssen im Vorfeld präpariert werden müssen. Außerdem sind die Lötstellen nicht immer perfekt fürs Löten ausgelegt.
 
 Im Falle des hier gewählten [Hori Fighting Commander](https://www.amazon.de/Fighting-Commander-PS4-PS3-PC/dp/B017QORK8W)s muss zuallerst die Plastikschicht der Buttons jeweils abgekratzt werden.
 Erfahrungsgemäß geht das am besten mit einem mittelgroßen Schlitzschraubenzieher. Beim abkratzen der (in dem Falle schwarzen) Plastikschicht kann man ruhig etwas fester drücken. Umso heller
@@ -23,15 +23,15 @@ Hier mal ein Bild der Schaltplatine des aktuellen Hori Fighting Commanders:
 
 ![Fighting_Commander_vorbereitet](/images/fighting_commander/fc_teils_vorbereitet.jpg)
 
-Die Schaltplatine funktioniert mit einem gemeinsamen Widerstand (common Ground). Das heißt, dass jede Datenader mit nur einem gemeinsamen Widerstand auf der Platine den Stromkreis schließt.
+Die Schaltplatine funktioniert mit einer gemeinsamen Masse (common Ground). Das heißt, dass jede Datenader mit nur einer gemeinsamen Masselitze auf der Platine den Stromkreis schließt.
 Das erleichtert das verkabeln mit einer vorgefertigten Daisy-Chain wie [hier](http://www.arcadeworlduk.com/products/insulated-daisy-chain-harness-with-32-crimp-connections.html) z.B.
 
 Im folgenden Bild seht ihr nochmal die genauen Lötstellen für die Buttons visualisiert in rot und pink.
-Rot steht für die Datenlitze des jeweiligen Buttons und pink für eine Lötstelle, an der man den Widerstand/Ground anlöten kann.
+Rot steht für die Datenlitze des jeweiligen Buttons und pink für eine Lötstelle, an der man der Masse/Ground anlöten kann.
 
 Außerdem haben wir noch Schultertasten, von denen wir nur die linken benötigen. 
 R1/2 sind bereits als Buttons auf dem Pad verfügbar. Das Kabel entfernt man, indem man die Lötpunkte erhitzt, und nach und nach an den Kabeln zieht.
-Am einfachsten tut man sich mit einer [Entlötpumpe](https://de.wikipedia.org/wiki/Entl%C3%B6tpumpe).Bevor man die Kabel jedoch erhitzt, sollte man auch Acht geben, ob evtl. auf der Unterseite noch Heißkleber zur Befestigung abgebracht wurde. Diese kann man einfach vorsichtig mit der Hand wegreißen.
+Am einfachsten tut man sich mit einer [Entlötpumpe](https://de.wikipedia.org/wiki/Entl%C3%B6tpumpe).Bevor man die Kabel jedoch erhitzt, sollte man auch Acht geben, ob evtl. auf der Unterseite noch Heißkleber zur Befestigung abgebracht wurde. Diese kann man einfach vorsichtig mit der Hand abnehmen.
 
 Bei den drei kleinen Buttons in der Mitte gäbe es jeweils auch noch ein Gegenstück mit einer Lötstelle für Ground, diese ist aber sehr klein und ist deshalb nicht empfehlenswert. Es gibt ja genügend andere
 Stellen auf der Schaltplatine, an der Ground angelötet werden kann.
