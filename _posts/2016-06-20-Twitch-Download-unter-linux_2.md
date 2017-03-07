@@ -7,9 +7,9 @@ categories:
 - Linux
 date: 2016-06-07 17:45:00.000000000 +02:00
 ---
-Nachdem ich ja letzten Blogeintrag geschrieben habe, bin über einen Kumpel auf das Programm [*livestreamer*](http://docs.livestreamer.io/) aufmerksam gemacht worden. Dieses Programm ist viel einfacher zu nutzen und erfüllt einem fast alle Wünsche. Das Python3 Progrmamm sollte unter jeden Windows, Mac OSX und Linux laufen. Unter openSUSE findet man es z.B. im openSUSE Build Service.
+Nachdem ich ja letztens einen Blogeintrag geschrieben habe, bin ich über einen Kumpel auf das Programm [*livestreamer*](http://docs.livestreamer.io/) aufmerksam gemacht worden. Dieses Programm ist viel einfacher zu nutzen und erfüllt einem fast alle Wünsche. Das Python3 Progrmamm sollte unter jedem Windows, Mac OSX und Linux laufen. Unter openSUSE findet man es z.B. im openSUSE Build Service.
 
-Mit *livestreamer* kann man VODs und Streams runterladen und ansehen. Das ist vorallem angenehm, wenn man den Stream nicht im Browser schauen möchte, sondern direkt im Media Player. Als netten Nebeneffekt, kann der Stream oder eben der VOD runtergeladen werden.
+Mit *livestreamer* kann man VODs und Streams runterladen und/oder ansehen. Das ist vorallem angenehm, wenn man den Stream nicht im Browser schauen möchte, sondern direkt im Media Player. Als netten Nebeneffekt, kann der Stream oder eben der VOD runtergeladen werden.
 
 
 Ich habe hier ein paar Beispiele vorbereitet:
