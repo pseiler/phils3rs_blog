@@ -15,18 +15,18 @@ Unter openSUSE sieht das so aus:
 user$ sudo zypper install screen
 {% endhighlight %}
 
-Starten könnt ihr die screen Session folgendermaßen. Es wird zwischen Groß- und Kleinschreibung unterschieden. Daher tipp ein großes S als Parameter.
+Starten könnt ihr die screen Session folgendermaßen. Es wird zwischen Groß- und Kleinschreibung unterschieden. Daher muss ein großes S als Parameter eingetippt werden. Anschließend befindet man sich bereits in der screen Session.
 
 {% highlight bash %}
 user$ screen -S $SESSIONNAME
 {% endhighlight %}
-Beitreten einer bestehenden Session geht folgendermaßen:
+Um einer bestehenden Session beizutreten nutzt man folgendes Kommando:
 
 {% highlight bash %}
 user$ screen -x $SESSIONNAME
 {% endhighlight %}
 
-Wie gesagt. Das funktioniert von unterschiedlichen Maschinen bzw. SSH Verbindungen aus.
+Wie gesagt. Das funktioniert von unterschiedlichen Shells und Maschinen aus. Zum Beispiel von zwei verschiedenen SSH Verbindungen.
 
 Um die screen Session wieder zu verlassen müsst ihr folgende Tastenkombination drücken:
 
