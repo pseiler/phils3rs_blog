@@ -197,12 +197,12 @@ ifconfig-push 10.12.0.10 10.12.0.1
 #push "dhcp-option DNS 213.73.91.35"
 {% endhighlight %}
 
-Serverseitig fehlt noch der Kernelparameter, um Routing zu aktivieren. Hierzu editiert man für eine persistente Änderung die Datei `/etc/sysctl.conf` und fügt folgende Zeile hinzu. Ggf. gibt es ein Template, bei dem man die Zeile auf einfach einkommentieren kann.
+Serverseitig fehlt noch der Kernelparameter, um Routing zu aktivieren. Hierzu editiert man für eine persistente Änderung die Datei `/etc/sysctl.conf` und fügt folgende Zeile hinzu. Ggf. gibt es ein Template, bei dem man die Zeile auch einfach einkommentieren kann.
 {% highlight ini %}
 net.ipv4.ip_forward=1
 {% endhighlight %}
 
-Allerdings wird die Konfigurationsdatei nur beim Boot gesetzt. Um Routing im Live Betrieb zu aktivieren, muss folgender Befehl ausgeführt werden.
+Allerdings wird die Konfigurationsdatei erst beim nächsten Boot gesetzt. Um Routing im Live Betrieb zu aktivieren, muss folgender Befehl ausgeführt werden.
 {% highlight bash %}
 root# echo "1" > /proc/sys/net/ipv4/ip_forward
 {% endhighlight %}
@@ -270,7 +270,7 @@ then
   cp ca.crt $1/keys/ca.crt
   chmod 700 $1/keys/ca.crt
 fi
-cp /etc/openvpn//etc/openvpn_client.in $1/$1.conf
+cp /etc/openvpn/openvpn_client.in $1/$1.conf
 echo "cert keys/$1.crt" >> $1/$1.conf
 echo "key keys/$1.key" >> $1/$1.conf
 chmod 700 $1/$1.conf
