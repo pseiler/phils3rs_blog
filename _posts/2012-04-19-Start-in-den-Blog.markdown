@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Start in den Blog
+description: Informationen zum Blogstart und technische, sowie inhaltliche Informationen
 categories:
 - Privat
 date: 2012-04-19 05:10:00.000000000 +02:00

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Telegram Vorstellung - ein Messenger wie er sein sollte
+description: Vor- und Nachteile des Messengers Telegram im Vergleich zu Whtasapp
 categories:
 - Technik
 date: 2015-03-06 13:22:00.000000000 +02:00

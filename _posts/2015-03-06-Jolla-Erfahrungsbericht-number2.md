@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jolla Erfahrungsbericht '#2'
+description: Detaillierterer Erfahrungsbericht zum Jolla inklusive Vor- und Nachteile, die sich nach einiger Zeit herauskristallisiert haben.
 categories:
 - Technik
 date: 2015-03-06 13:23:00.000000000 +02:00
@@ -8,7 +9,7 @@ date: 2015-03-06 13:23:00.000000000 +02:00
 
 Vorab: Diesen Blogpost wollte ich schon länger machen aber irgendwas kam immer dazwischen. Seitdem ist auch etwas Zeit vergangen und meine Sicht auf das Jolla Smartphone hat sich nach einer herben Enttäuschung wieder stetig verbessert.
 
-Ich hab das Jolla jetzt einige Monat im Einsatz (seit September) und ich muss sagen ich bin zufrieden. Nach einigen Problemen, über die ich gestoßen bin wie z.B. das [hier](https://together.jolla.com/question/7144/jolla-randomly-shuts-down/?sort=votes&page=1), hat es sich als zuverlässiges Arbeits- und Privathandy erwiesen. Nachdem ich das verlinkte random Ausschaltproblem mit einem gefalteten Papierstück gelöst habe, hab ich eigentlich keine Probleme mehr mit dem Handy. Auch nach der längeren Nutzungszeit hat sich die Akkuleistung nicht wesentlich verschlechtert. Das Jolla bekommt in halbwegs großen Abständen Updates (letztes Update Anfang März, vorletztes zu Weihnachten), welche Sicherheitslücken stopfen, die Stabilität verbessern und die Funktionalität erweitern. Eine wichtige Funktionn, die bisher auf keinem Android Handy gefunden habe, ist der Wecker. Dieser funktioniert auch im ausgeschaltetem Zustand. So klinget das Jolla auch in der früh wenn der Akku über Nacht leer ging und sich ausgeschaltet hat. Mich hat das z.B. schon ein ein oder zwei Mal vorm verschlafen bewahrt. Mit ein paar Kinderkrankheiten, Problemen und Wünschen hat das Smartphone noch zu kämpfen.
+Ich hab das Jolla jetzt einige Monat im Einsatz (seit September) und ich muss sagen ich bin zufrieden. Nach einigen Problemen, über die ich gestoßen bin wie z.B. das [hier](https://together.jolla.com/question/7144/jolla-randomly-shuts-down/?sort=votes&page=1), hat es sich als zuverlässiges Arbeits- und Privathandy erwiesen. Nachdem ich das verlinkte random Ausschaltproblem mit einem gefalteten Papierstück gelöst habe, habe ich eigentlich keine Probleme mehr mit dem Handy. Auch nach der längeren Nutzungszeit hat sich die Akkuleistung nicht wesentlich verschlechtert. Das Jolla bekommt in halbwegs großen Abständen Updates (letztes Update Anfang März, vorletztes zu Weihnachten), welche Sicherheitslücken stopfen, die Stabilität verbessern und die Funktionalität erweitern. Eine wichtige Funktionn, die bisher auf keinem Android Handy gefunden habe, ist der Wecker. Dieser funktioniert auch im ausgeschaltetem Zustand. So klingelt das Jolla auch in der früh wenn der Akku über Nacht leer ging und sich ausgeschaltet hat. Mich hat das z.B. schon ein ein oder zwei Mal vorm verschlafen bewahrt. Mit ein paar Kinderkrankheiten, Problemen und Wünschen hat das Smartphone noch zu kämpfen.
 
 Das wären dann folgende:
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Schamloser Angriff auf unsere Grundrechte
+description: Die Grundrechte werden mit Füßen getreten und Politik treibt das Volk in einen Überwachungsapparat
 categories:
 - Politik
 date: 2015-01-21 22:26:00.000000000 +02:00

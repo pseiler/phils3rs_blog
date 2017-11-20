@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Steam für Linux
+description: Danksagung an Valve, die Steam für Linux portieren
 categories:
 - Gaming
 date: 2012-04-25 10:23:00.000000000 +02:00

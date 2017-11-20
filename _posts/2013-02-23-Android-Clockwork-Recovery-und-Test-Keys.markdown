@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Android - Clockwork Recovery und  "Test Keys"
+description: Android ohne Tasten mit adb im Recovery Mode neu starten
 categories:
 - Android
 date: 2013-02-23 17:43:00.000000000 +01:00
@@ -14,7 +15,7 @@ adb reboot
 {% endhighlight %}
 einzugeben.
 (Den  adb Server muss man nicht als Root starten, wenn man Udev Regeln für die Geräte erstellt hat. Wird hier nur der Vollständigkeit halber erwähnt)
-Dazu braucht man aber das Android SDK mit den platform-tools. Darin enthalten ist das Kommandozeilenprogramm **adb** (Android Debugging Bridge).
+Dazu benötigt man aber das Android SDK mit den platform-tools. Darin enthalten ist das Kommandozeilenprogramm **adb** (Android Debugging Bridge).
 Gibt es für Linux, Windows und MacOSX.
 
 Anleitungen für die Installation des SDK gibt es zahlreich im Internet für alle genannten Plattformen.

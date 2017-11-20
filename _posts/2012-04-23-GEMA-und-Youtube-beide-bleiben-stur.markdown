@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GEMA und Youtube - beide bleiben stur
+description: Kommentar zum Kampf zwischen YouTube und der GEMA
 categories:
 - Privat
 date: 2012-04-23 02:37:00.000000000 +02:00

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: evilvte als Terminal Emulator für Windowmanager
+description: Vorstellung, Konfiguration und einsetzen von EvilVTE
 categories:
 - Linux
 date: 2013-07-04 23:18:43.000000000 +02:00

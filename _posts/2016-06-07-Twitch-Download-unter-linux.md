@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Twitch Video Download / mit Linux und FFmpeg "MPEG Streams" verbinden
-
+description: Toolchain um Videos von Twitch herunterzuladen, um sie anschließend zu konvertieren.
 categories:
 - Technik
 - Linux

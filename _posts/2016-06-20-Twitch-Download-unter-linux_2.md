@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Twitch Video Download die zweite (viel einfacher)
-
+description: Einfachere Variante um Twitch Streams und VODs unter Linux herunterzuladen.
 categories:
 - Technik
 - Linux
