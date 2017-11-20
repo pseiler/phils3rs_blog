@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Padhack eines Hori Fighting Commanders
-
+description: Anleitung, Infos und Bilder um einen Hori Fighting Commander Padhack durchzuführen
 categories:
 - Technik
 - Linux

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Jolla Erfahrungsbericht
+description: Erster persönlicher Erfahrungsbericht zum Jolla Phone der Ex Nokia Mitarbeiter
 categories:
 - Linux
 date: 2014-09-25 19:39:28.000000000 +02:00
 ---
 Kürzlich hab ich mir ein neues Smartphone zugelegt, da mein HTC One Mini einfach ohne Grund den Geist aufgegeben hat. Es handelt sich um ein [Jolla Phone](http://jolla.com/). Nach langem überlegen fiel meine Wahl auf dieses Gerät, da die Akkulaufzeit als recht gut empfunden wurde und es ein natives Linux mit Android Support als System nutzt. Nach dem etwas holprigen Einstieg bzgl. Uptades und Android Apps schlägt es sich hervorragend. Jede app die mir wichtig war gibt es nativ:
-
 
 * Medienspiler mit ogg und mp4 Support
 * XBMC remote control

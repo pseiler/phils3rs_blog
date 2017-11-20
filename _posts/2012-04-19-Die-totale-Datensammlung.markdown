@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Die totale Datensammlung
+description: Gesetzesentwürfe nach ACTA und das Vorrantreiben eines Überwachungsstaates
 categories:
 - Netzpolitik
 date: 2012-04-19 10:06:00.000000000 +02:00

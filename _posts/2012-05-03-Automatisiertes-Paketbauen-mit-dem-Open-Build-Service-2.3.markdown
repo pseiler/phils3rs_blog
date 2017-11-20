@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Automatisiertes Paketbauen mit dem Open Build Service 2.3
+description: Informationen zur Benutzung und Unterstützung des von SUSE entwickelten Open Build Services
 categories:
 - Linux
 date: 2012-05-03 09:21:00.000000000 +02:00
@@ -25,7 +26,7 @@ Vom Aufbau her, werden Projekte angelegt innerhalb dieser dann die Pakete erstel
 
 Der OBS bietet eine Weboberfläche in der man Einsicht auf alle öffentlichen Pakete und Projekte hat und theoretisch auch darüber seine Dateien bearbeiten kann. Für die meisten wird das aber wohl zu mühselig sein, daher wird auch ein Kommandozeilenclient bereitgestellt, der mit dem Server über eine Ruby API kommuniziert. Das fühlt sich dann wie Subversion an. Man ändert seine Spec File z.B. lokal und commitet dann die Änderungen samt commit log an den Server zurück.
 
-Zur detaillierten Benutzung hau ich dann auch mal einen zusätzlichen Post raus, damit ihr auf meinem Blog auch mal lernt. vom openSUSE Wiki gibts auch einen Artikel der die Benutzung des "osc" genannten tools erklärt. Google sollte da weiterhelfen. Natürlich hat der cli Client auch eine Manpage.
+Zur detaillierten Benutzung schreibe ich dann auch mal einen zusätzlichen Post, damit ihr auf meinem Blog auch mal etwas lernt. vom openSUSE Wiki gibts auch einen Artikel der die Benutzung des "osc" genannten tools erklärt. Google sollte da weiterhelfen. Natürlich hat der cli Client auch eine Manpage.
 
 Zu den Neuerungen des OBS in der Version 2.3 gehören eine verbesserte Weboberfläche, eine verbesserte Koordination für Updates und eine verbesserte Crossbuild Unterstützung für die ARM Architektur.
 

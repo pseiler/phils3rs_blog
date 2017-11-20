@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Screen Tipps
+description: Einsteiger Tutorial um Screen zu bedienen
 categories:
 - Linux
 date: 2013-02-23 18:02:00.000000000 +01:00

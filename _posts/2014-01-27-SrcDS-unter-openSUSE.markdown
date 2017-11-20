@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SrcDS unter openSUSE
+description: SrcDS Dedicated Server unter Linux / OpenSUSE installieren
 categories:
 - Gaming
 date: 2014-01-27 18:30:00.000000000 +01:00

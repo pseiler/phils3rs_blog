@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Vorstellung: Diaspora - ein freies Social Network'
+description: technische, politische, sowie inhaltliche Informationen zu Diaspora
 categories:
 - Privat
 date: 2012-04-21 11:20:00.000000000 +02:00

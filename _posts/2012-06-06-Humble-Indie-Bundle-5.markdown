@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Humble Indie Bundle #5'
+title: Humble Indie Bundle #5
+description: Linux Hilfe um die Spiele aus dem Humble Indie Bunlde #5 zum laufen zu bringen
 categories:
 - Gaming
 date: 2012-06-06 16:34:00.000000000 +02:00
@@ -45,10 +46,8 @@ Amnesia startet trotzdem nicht verfünftig.
 Die fehlende patentgeschützte GL Library wird anscheinend auch als open-source entwickelt und ist für openSUSE hier zu finden.
 [Packman 1-Click Link](http://packman.links2linux.de/package/libtxc_dxtn)
 
-
-
 Für andere Linuxdistributionen müsst ihr einfach mal nach "libtxc" suchen. Da findet sich auf jeden Fall was, oder ihr kompiliert euch die Library selbst.
 [Libtxc_dxtn Projekt Seite](http://cgit.freedesktop.org/~mareko/libtxc_dxtn/)
 Nachdem die Library installiert wurde, hab ich allle Spiele nochmal gestartet und seitdem funktionieren jedes Spiel mit Intel Grafik und Mesa, auch wen die Performance aufgrund der Grafikhardware nur mäßig ist.
 
-Die drei neuen Spiele laufen auch alle out-of-the-box. Somit hat sich der Kauf des Humble Indie Bundle #5 wirklich gelohnt. Die meisten Spiele werd ich dann nur auf dem Tower genießen können, aber für 12.50€ war es den Kauf mehr als wert.
+Die drei neuen Spiele laufen auch alle out-of-the-box. Somit hat sich der Kauf des Humble Indie Bundle #5 wirklich gelohnt. Die meisten Spiele werde ich dann nur auf dem Tower genießen können, aber für 12.50€ war es den Kauf mehr als wert.

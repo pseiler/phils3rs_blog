@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'Counter-Strike: Global Offensive für Linux'
+description: 'Counter-Strike: Global Offensive ist für Linux erschienen'
 categories:
 - Gaming
 date: 2014-09-30 12:26:52.000000000 +02:00
 ---
-Es ist endlich soweit. Valve hat endlich Counter-Strike: Global Offensive für Linux released. Und ich muss sagen: Gute Arbeit Valve. Der Linux Port läuft flüssig und momentan minimal schlechter wie unter Windows.
+Es ist endlich soweit. Valve hat endlich Counter-Strike: Global Offensive für Linux released. Und ich muss sagen: Gute Arbeit Valve. Der Linux Port läuft flüssig und momentan minimal schlechter als unter Windows.
 
 Hier und da hat man noch mit schwarzen Texturen zu kämpfen (auf bestimmten Maps sind paar Details schwarz [Bilderrahmen auf Inferno, Bildschirme und Telefone auf Office]). Auch hab ich noch ab und an das Problem, wenn ich Ingame Voice nutzen will, das sich manchmal CS:GO komplett beendet. Das passiert aber nur beim ersten drücken des Buttons. Wenn das Spiel das erste drücken überstanden hat, kann mans auch nutzen und es funktioniert. Momentan hab ich noch paar Mikroruckler, was sich aber hoffentlich mit Wechsel des Windowmanagers erledigen wird (KDE mit fancy Effekten usw. zieht schon Leistung).
 Alles in allem bin ich froh das Valve auch ihren letzten Titel portiert haben und ich somit kein Windows mehr brauch um mein Lieblingsmultiplayer Game zu zocken. Die CS 1.6 Zeiten sind leider lang vorbei.

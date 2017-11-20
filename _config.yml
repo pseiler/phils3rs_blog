@@ -1,5 +1,5 @@
 name: Phils3rs Blog
-description: Geistige Ergüsse aus Schrobenhausen
+description: Persönlicher Blog rund ums Thema Linux, Software kompilieren, Hardware Modding und Politik
 markdown: redcarpet
 baseurl: ""
 url: "http://blog.phils3r.de"

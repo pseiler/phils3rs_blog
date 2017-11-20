@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hori Real Arcade Pro 4 Pin layout
-
+description: Das Pin Layout für den Hori Real Arcade Pro 4 (erste Revision in rot)
 categories:
 - Technik
 date: 2016-02-02 22:35:00.000000000 +02:00

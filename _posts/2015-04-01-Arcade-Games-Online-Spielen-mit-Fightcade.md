@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Arcade Games online spielen mit FightCade
+description: FightCade als Plattform um alte Arcade Games online miteinander zu spielen. Unterstützung für Windows, MacOS und Linux
 categories:
 - Technik
 date: 2015-04-01 01:40:00.000000000 +02:00

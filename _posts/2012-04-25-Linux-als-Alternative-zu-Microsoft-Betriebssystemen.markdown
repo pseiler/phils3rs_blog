@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Linux als Alternative zu Microsoft Betriebssystemen
+description: Windows als Betriebssystem, das den Nutzer ausbeuten und ausspioniert und ein Aufruf Linux zu testen
 categories:
 - Technik
 date: 2012-04-25 03:18:00.000000000 +02:00
@@ -9,13 +10,13 @@ Ich hab diesen [Artikel](http://www.heise.de/tp/artikel/36/36245/1.html) von Hei
 Das ist bis jetzt der beste Artikel der den Vergleich zwischen Windows und Linuxbasierten Betriebssystemen darstellt. Microsoft mit ihrer im wahrsten Sinne vom Funktionsumfang her Mikrosoftware, werden sehr gut als das beschreiben, was die meisten Leute einfach nicht sehen. Eine geldgeile Firma, die nicht auf Qualität legt, sondern ihre Software bewusst abspeckt und den User bewusst von seinen Möglichkeiten mit verwirrenden Phrasen ablenkt. Ein Beispiel sind die fehlenden Fehlerbeschreibungen. "Möchten Sie einen Fehlerbericht an Microsoft senden?"
 Sehr informativ und lösungsorientiert.
 
-Anderes Beispiel die ganze unnütze Sache mit den verschiedenen Netzwerkmodi. Es gibt Firmennetzwerke, Homenetzwerke, nicht vertrauenswürdige Netze usw. Wozu das alles? Ich hab noch nie gehört, das man durch klicken eines dieser Modi sicherer ist? Im Endeffekt läuft die Netzwerkkommunikation sowieso auf IP, Routing und NAT raus, da helfen auch die ganzen technisch nicht vorhanden Microsoft Zwischenschichten nicht.Ich könnt noch so viele Sachen aufzählen, was mich stört, aber ich werd bei dem Gedanken an den Schrott schon wieder sauer.
+Ein anderes Beispiel ist die ganze unnütze Sache mit den verschiedenen Netzwerkmodi. Es gibt Firmennetzwerke, Heimnetzwerke, nicht vertrauenswürdige Netze usw. Wozu das alles? Ich hab noch nie gehört, das man durch klicken eines dieser Modi eine sicherere Systemumgebung hat? Im Endeffekt läuft die Netzwerkkommunikation sowieso auf IP, Routing und NAT raus, da helfen auch die ganzen technisch nicht vorhanden Microsoft Zwischenschichten nicht. Hier und da tut die Windows Firewall etwas, aber eine Hilfe ist das sicher nicht. Ich könnt noch so viele Sachen aufzählen, was mich stört, aber ich werd bei dem Gedanken daran schon wieder sauer.
 
 Also lest euch lieber den Heise Artikel, den ich am Anfang verklinkt hab, durch, der ist im Gegensatz zu dem her, ausschließlich sachlich.
 
-Und was ich euch ans Herz legen möchte. Probiert doch einfach mal eine Linux Distribtion aus. ( Distribution = Softwarezusammenstellung, im Zusammenhang mit Linux werden hier oft unterschiedliche Linux"versionen" gemeint, von unterschiedlichen Firmen und Communities)
+Und was ich euch ans Herz legen möchte. Probiert doch einfach mal eine Linux Distribtion aus. ( Distribution = Softwarezusammenstellung, im Zusammenhang mit Linux werden sind oft unterschiedliche Linux"versionen" gemeint, die von unterschiedlichen Firmen und Communitys stammen)
 
-Und scheut euch nicht vor Veränderungen. Wie der Heise Schreiber sagt, es ist zwar etwas anders, aber nicht unbedingt schwerer.
+Und scheut euch nicht vor Veränderungen. Wie der Heise Schreiber sagt, es ist zwar etwas anders, aber nicht unbedingt schwerer oder komplizierter.
 
 Meine Mutter zum Beispiel nutzt jetzt schon seit über einem Jahr ein openSUSE, hat davor noch nie einen PC in der Hand gehabt, und hat fast keine Probleme damit. Und die Probleme die sie hat beschränken sich auf so Sachen, wie z.B. hat sich das WLAN nicht verbunden und sie hat danach das falsche Passwort eingegeben. Sie surft, liest Mails, und chattet ab und an. Mehr machen die meisten Leute auch nicht.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Banana Pi - der bessere Raspberry Pi?
+description: Banana Pi und technische Unterschiede in verschiedenen Bereichen wie z.B. in der Grafibeschleunigung
 categories:
 - Technik
 date: 2015-02-03 18:26:00.000000000 +02:00

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: openVPN mit DynDNS für Zugriff aufs Heimnetzwerk installieren
-
+description: Mit Linux einen openVPN Server aufsetzen, um sich ins eigene Heimnetz zu verbinden
 categories:
 - Technik
 - Linux

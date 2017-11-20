@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PS Vita PkgDecrypt unter Linux kompilieren
-
+description: Patch einspielen, der das kompilieren von PkgDecrypt unter Linux ermöglicht
 categories:
 - Technik
 - Linux
