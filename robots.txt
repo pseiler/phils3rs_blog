@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://blog.phils3r.de/sitemap.xml
+Sitemap: https://blog.phils3r.de/sitemap.xml
