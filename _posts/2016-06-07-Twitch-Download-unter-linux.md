@@ -18,7 +18,7 @@ Es wird eine Kombination aus drei Komponenten verwendet:
 * optional: *mediainfo* - um Codecinformationen der Dateien auszulesen (z.B. um Audio und Videoqualität zu ermitteln)
 
 
-Zuerst besucht man die Seite [VODcutter](ttp://twitch.center/vodcutter) um die Downloadliste zu generien. Dazu sucht ihr die ID oder den ganzen Link zum VoD/Video raus und fügt sie ins erste Feld der Seite.
+Zuerst besucht man die Seite [VODcutter](http://twitch.center/vodcutter) um die Downloadliste zu generien. Dazu sucht ihr die ID oder den ganzen Link zum VoD/Video raus und fügt sie ins erste Feld der Seite.
 
 Die Felder Start- und Endzeit müssen richtig ausgefüllt werden. Um das ganze Video abzudecken, sollte bei Startzeit 0:00:00h eingegeben werden, und bei der Endzeit ein beliebiger Wert, der länger als das Video ist. Bei einem 4:45:12h langen Video entweder genau den Wert, oder irgendwas höheres. Beispielsweise 10:00:00h.
 Nun wählt man noch die Qualität für den Download (in der Regel möchte man "Source" Qualität).
