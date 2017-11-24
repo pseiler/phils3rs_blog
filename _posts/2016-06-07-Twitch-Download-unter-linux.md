@@ -11,7 +11,7 @@ Desöfteren stand ich schon vor dem Problem, dass ich einen Twitch Stream herunt
 
 Es wird eine Kombination aus drei Komponenten verwendet:
 
-* die Webseite [VODcutter](ttp://twitch.center/vodcutter) - generiert Download Links der einzelnen 15 Minuten Stücke
+* die Webseite [VODcutter](http://twitch.center/vodcutter) - generiert Download Links der einzelnen 15 Minuten Stücke
 * *wget* - um die Dateien herunterzuladen
 * *ffmpeg* - um die einzelnen Stücke aneinanderzuheften
 * optional: ein Schneideprogramm wie [OpenShot](http://openshot.org/) umd die Datei anschließend zu bearbeiten
