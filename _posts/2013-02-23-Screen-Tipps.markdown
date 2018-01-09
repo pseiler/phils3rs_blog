@@ -67,4 +67,26 @@ Dazu gibt es noch eine Alternative Anzeige mit interaktiver Fensterauswahl. Wirk
 
 **STRG** + **a** &#124; **Shift** + **2**
 
+/e: 09.01.2018
+
+Soeben habe ich eine nette neue Funktion für mich entdeckt. Beim Starten einer Screen Session kann bei Bedarf der Paramter -L angegeben werden, um die komplette Session, samt Input und Output zu protokollieren. 
+
+{% highlight bash %}
+user$ screen -L -S $SESSIONNAME
+{% endhighlight %}
+
+Anschließend landet im selben Verzeichnis, in dem auch der obige Befehl ausgeführt wurde, die Datei *screenlog.0* bzw. *screenlog.X*. X steht für die durchnummerierte Shell innerhalb der Session. Anschließend kann man das log mit less und angeschaltenem Farbinterpreter ansehen.
+
+{% highlight bash %}
+user$ less -r screenlog.0
+{% endhighlight %}
+
+Alternativ kann man auch Das Logging im laufenden Betrieb an- und ausschalten.
+
+Das funktioniert mit:
+
+**STRG** + **a** &#124;  **Shift** + **h**
+
+Ob es geklappt hat, sieht man unten in der Screen Statusleiste.
+
 Installiert euch screen und probiert es einfach aus. Um screen grundlegend zu bedienen werden die Befehle ausreichen. Um tiefer einzusteigen hab ich leider keinen speziellen Tipp. Ich denke aber im Internet gibt bestimmt HowTos und Anleitungen die tiefer aufs Thema eingehen. Außerdem gibt es ja noch die guten alten Manpages.
