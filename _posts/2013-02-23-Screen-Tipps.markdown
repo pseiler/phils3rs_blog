@@ -16,12 +16,17 @@ Unter openSUSE sieht das so aus:
 user$ sudo zypper install screen
 {% endhighlight %}
 
-Starten könnt ihr die screen Session folgendermaßen. Es wird zwischen Groß- und Kleinschreibung unterschieden. Daher muss ein großes S als Parameter eingetippt werden. Anschließend befindet man sich bereits in der screen Session.
+Starten könnt ihr die screen Session folgendermaßen. Es wird zwischen Groß- und Kleinschreibung unterschieden. Daher muss ein großes S als Parameter eingetippt werden. Anschließend befindet man sich bereits in der screen Session. *$SESSIONNAME* steht für den frei zu wählenden Name der Session.
 
 {% highlight bash %}
 user$ screen -S $SESSIONNAME
 {% endhighlight %}
-Um einer bestehenden Session beizutreten nutzt man folgendes Kommando:
+Um alle bestehenden Sessions anzuzeigen, nutzt man folgenden Befehl:
+
+{% highlight bash %}
+user$ screen -ls
+{% endhighlight %}
+Um einer bestehenden Session beizutreten nutzt man folgendes Kommando. Ist nur eine Session offen, so kann man den Sessionnamen weglassen:
 
 {% highlight bash %}
 user$ screen -x $SESSIONNAME
@@ -43,15 +48,15 @@ Das funktioniert beliebig oft. Um zwischen dem letzten und dem aktuellen Fenster
 
 Um immer zum nächsten Fenster zu schalten müsst ihr das drücken:
 
-**STRG** + **a** &#124;  **n**
+**STRG** + **a** &#124; **n**
 
 *n* steht wahrscheinlich für *next*.  Natürlich gibt es auch eine Kombination für das vorherige Fenster. Für was *p* steht, dürft ihr selbst raten.
 
-**STRG** + **a** &#124;  **p**
+**STRG** + **a** &#124; **p**
 
 Eine Alternative um zum nächsten Fenster zu welchseln ist folgende:
 
-**STRG** + **a** &#124;  **Leertaste**
+**STRG** + **a** &#124; **Leertaste**
 
 Meiner Meinung nacht ist diese Kombination besser zu drücken, als mit *n* Taste.
 Um ein Fenster in der Session umzubennen drück folgendes:
@@ -61,7 +66,7 @@ Um ein Fenster in der Session umzubennen drück folgendes:
 Anschließend kommt unten eine Leiste wo ihr den Fenstertitel umbenennen könnt.
 Um einen Überblick zu bekommen, welche Fenster in der Session offen sind, drückt ihr folgendes
 
-**STRG** + **a** &#124;  **w**
+**STRG** + **a** &#124; **w**
 
 Dazu gibt es noch eine Alternative Anzeige mit interaktiver Fensterauswahl. Wirklich nützlich ist diese aber nur, wenn man seinen screen Fenstern vernünftige Namen verpasst hat.
 
@@ -85,7 +90,7 @@ Alternativ kann man auch Das Logging im laufenden Betrieb an- und ausschalten.
 
 Das funktioniert mit:
 
-**STRG** + **a** &#124;  **Shift** + **h**
+**STRG** + **a** &#124; **Shift** + **h**
 
 Ob es geklappt hat, sieht man unten in der Screen Statusleiste.
 
