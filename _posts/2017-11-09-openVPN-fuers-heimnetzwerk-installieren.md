@@ -225,7 +225,7 @@ client
 dev tun
 # das Protokoll
 proto udp
-# Der DynDN Hostaname und der ober zugehörige Port
+# Der DynDNS Hostaname und der zugehörige Port von oben
 remote $HOSTNAME.goip.de 1194
 #compression
 comp-lzo
@@ -268,12 +268,12 @@ fi
 if [ ! -f $1/keys/ca.crt ]
 then
   cp ca.crt $1/keys/ca.crt
-  chmod 700 $1/keys/ca.crt
+  chmod 600 $1/keys/ca.crt
 fi
 cp /etc/openvpn/openvpn_client.in $1/$1.conf
 echo "cert keys/$1.crt" >> $1/$1.conf
 echo "key keys/$1.key" >> $1/$1.conf
-chmod 700 $1/$1.conf
+chmod 600 $1/$1.conf
 tar czf $1.tar.gz $1
 {% endhighlight %}
 Dem Skript gibt man dann noch Ausführrechte
