@@ -13,9 +13,9 @@ Und gleich der nächste Artikel hinterher. Mein letztes kurzes persönliches Pro
 + Ein Account bei einem DynDNS Anbieter. Oder eine selbst gebaute Lösung. Ich benutze [goip.de](http://www.goip.de/).
 + Einen Router, welcher selbst eingetragene DynDNS Update URLS unterstützt (ich habe eine Fritzbox verwendet)
 + einen Linux Rechner, welcher 24/7 betrieben werden kann. (z.B. einen [Raspberry Pi](https://www.raspberrypi.org/))
-+ openVPN auf sowohl auf dem Client, als auch auf dem Server
++ openVPN sowohl auf dem Client, als auch auf dem Server
 
-Zuallererst konfigurieren wir unseren DynDNS Dienst. Im Falle von [goip.de](http://www.goip.de/) brauchen wir zuallererst einen Account. Den erstellen wir uns auf der Homepage. Eine genau Anleitung dazu finden wir hier: ([klick mich](http://www.goip.de/install.html))
+Zuallererst konfigurieren wir unseren DynDNS Dienst. Im Falle von [goip.de](http://www.goip.de/) brauchen wir einen Account. Den erstellen wir uns auf der Homepage. Eine genau Anleitung dazu finden wir hier: ([klick mich](http://www.goip.de/install.html))
 
 Die genaue update URL die wir für die Fritzbox brauchen, ist diese:
 {% highlight html %}
@@ -51,7 +51,7 @@ Wichtig sind folgende Parameter: *KEY_COUNTRY*, *KEY_PROVINCE*, *KEY_CITY*, *KEY
 root# vim /etc/openvpn/easy-rsa/vars
 {% endhighlight %}
 
-Hat man die **vars** Datei erfolgreich editiert, sourced man sie.
+Hat man die **vars** Datei erfolgreich editiert, sourced man sie. `./clean-all` führt man nur einmal beim initialen anlegen aus, da es alles bisher generierte löscht. 
 {% highlight bash %}
 root# cd /etc/openvpn/easy-rsa/
 root# . ./vars
@@ -88,7 +88,7 @@ Als nächstes erstellen wir das Server Zertifikat. Die Fragen beantwortet man na
 ./build-key-server server
 {% endhighlight %}
 
-Jetzt erstellt man das Client Zertifikat. $CLIENTNAME steht für den tatsächlichen Namen des Zertifikats. Diesen Schritt kann man beliebig oft wiederholen, um mehreren Clients Zugriff aufs VPN zu geben
+Jetzt erstellt man das Client Zertifikat. $CLIENTNAME steht für den tatsächlichen Namen des Zertifikats. Diesen Schritt kann man beliebig oft wiederholen, um mehreren Clients Zugriff aufs VPN zu geben. Beendet man seine Shell Sitzung, so ist vor dem generieren des Zertifikats erneut ein `. ./vars` auszuführen. Dasselbe gilt bei allen Änderungen, die man an den Zertifikaten vornimmt. In der Regel braucht man das aber nur, um neue Client Zertifikate anzulegen.
 {% highlight bash %}
 ./build-key $CLIENTNAME
 {% endhighlight %}
