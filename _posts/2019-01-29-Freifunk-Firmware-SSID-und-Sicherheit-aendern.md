@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Freifunk Firmware - SSID, MAC Adresse und Verschlüsseung / Sicherheit ändern
+title: Freifunk Firmware - SSID, MAC Adresse und Verschlüsselung / Sicherheit ändern
 description: Möchte man die openwrt / Freifunk Firmware so ändern, dass sie eine andere SSID nutzt, findet man hier die richtigen Befehle
 categories:
 - Linux
