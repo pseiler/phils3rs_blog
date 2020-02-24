@@ -4,7 +4,7 @@ title: AMD Radeon RX 5600 XT unter Linux mit Mesa 20 und aktuellem Kernel betrei
 description: Möchte man eine AMD Grafikkarte betreiben, welche gerade erst erschienen ist, steht man vor so manchen Problemen. Diese werden hier behandelt
 categories:
 - Linux
-date: 2019-01-29 17:15:00.000000000 +02:00
+date: 2020-02-24 09:50:00.000000000 +02:00
 ---
 
 Ich habe mir vor kurzem ein neues Gaming PC Setup zusammengestellt, welches unter anderem die Grafikkarte AMD Radeon RX 5600 XT beinhaltet. Da diese erst vor ein paar Wochen erschienen ist, ist die Unterstützung unter Linux nur mit den neuesten Systemkomponenten möglich. Diese beinhalten:
