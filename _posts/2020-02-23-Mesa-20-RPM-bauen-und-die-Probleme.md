@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AMD Radeon RX 5600 XT unter Linux mit Mesa 20 und aktuellem Kernel betreiben
+title: AMD Radeon RX 5600 XT unter openSUSE mit Mesa 20 und aktuellem Kernel betreiben
 description: Möchte man eine AMD Grafikkarte betreiben, welche gerade erst erschienen ist, steht man vor so manchen Problemen. Diese werden hier behandelt
 categories:
 - Linux
@@ -37,7 +37,7 @@ Hinzufügen kann man es mit den folgenden Befehlen:
 zypper addrepo -f https://download.opensuse.org/repositories/home:seilerphilipp:mesa/openSUSE_Leap_15.1/ home_seilerphilipp_mesa
 {% endhighlight %}
 
-#### openSUSE Leap 15.1
+#### openSUSE Leap 15.2
 {% highlight bash %}
 zypper addrepo -f https://download.opensuse.org/repositories/home:seilerphilipp:mesa/openSUSE_Leap_15.2/ home_seilerphilipp_mesa
 {% endhighlight %}
@@ -52,6 +52,6 @@ Anschließend kann man mit folgenden Befehlen Mesa und alle relevanten Komponent
 zypper install --from home_seilerphilipp_mesa Mesa Mesa-libGLESv1_CM1 Mesa-dri Mesa-libGLESv2-2 libOSMesa8 Mesa-libva Mesa-gallium Mesa-libEGL1 Mesa-libOpenCL Mesa-libGL1 Mesa-libglapi0 libgbm1 libdrm_amdgpu1
 {% endhighlight %}
 
-Bei Fragen zur Abhängigkeitsauflösung wechselt man den Vendor natürlich auf ** home\_seilerphilipp\_mesa
+Bei Fragen zur Abhängigkeitsauflösung wechselt man den Vendor natürlich auf **home\_seilerphilipp\_mesa**.
 
 Bei Bedarf aktualisiert man die gleichen Pakete mit ***-32bit*** Suffix.
