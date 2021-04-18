@@ -721,6 +721,11 @@ li p {
         margin-bottom: 0px;
 }
 
+/* add spacing between list elements of article */
+#main-content li {
+    top-top: 10px;
+}
+
 p {
   margin-bottom: 20px;
 }
