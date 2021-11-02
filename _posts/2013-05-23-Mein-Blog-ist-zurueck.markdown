@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Mein Blog ist zurück
-categories: []
+categories: 
+- privat
 date: 2013-05-23 13:56:34.000000000 +02:00
 ---
 Hallo zusammen,

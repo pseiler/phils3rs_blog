@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Fun: Seehofers Wendestrategie'
-categories: []
+categories: 
+- Privat
 date: 2013-05-23 13:50:03.000000000 +02:00
 ---
 Vor einiger Zeit hat mir ein Kumpel mal einen lustigen Link geschickt.

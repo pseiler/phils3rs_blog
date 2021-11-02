@@ -2,7 +2,7 @@
 layout: post
 title: Coca Cola verpestet die Umwelt um Geld zu sparen
 categories:
-- Technik
+- Politik
 date: 2015-03-04 18:26:00.000000000 +02:00
 ---
 
