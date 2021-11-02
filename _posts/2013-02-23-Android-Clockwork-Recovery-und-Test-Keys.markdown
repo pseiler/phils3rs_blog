@@ -3,8 +3,6 @@ layout: post
 title: Android - Clockwork Recovery und  "Test Keys"
 categories:
 - Android
-permalink: /archives/23-Android-Clockwork-Recovery-und-Test-Keys.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/23-Android-Clockwork-Recovery-und-Test-Keys.html
 date: 2013-02-23 17:43:00.000000000 +01:00
 ---
 Ich bin gerade dabei Ubuntu Touch auf mein Nexus 7 zu bespielen um das mal anzuschauen. Dabei bin ich ausversehen im Custom Recovery von Clockwork im *Advanced* Menu auf *Test Keys* gekommen. Da das Nexus 7 keine Hardwaretasten außer **Lauter/Leiser** und den **Einschaltknopf**, hab ich zuerst keinen Weg gefunden, aus dem Testmode wieder rauszukommen.

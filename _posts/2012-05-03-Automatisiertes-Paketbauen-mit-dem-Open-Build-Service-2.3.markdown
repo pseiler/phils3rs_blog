@@ -3,8 +3,6 @@ layout: post
 title: Automatisiertes Paketbauen mit dem Open Build Service 2.3
 categories:
 - Linux
-permalink: /archives/9-Automatisiertes-Paketbauen-mit-dem-Open-Build-Service-2.3.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/9-Automatisiertes-Paketbauen-mit-dem-Open-Build-Service-2.3.html
 date: 2012-05-03 09:21:00.000000000 +02:00
 ---
 Heute habe ich auf Heise etwas erfreuliches gelesen. Open Build Service wurde vom openSUSE Projekt heute in der Version 2.3 released. Für alle Linuxer die das Ding noch nicht kennen. Es handelt sich hierbei um eine Client/Server Lösung um Programmpakete auf/für so ziemlich allen gängigen LinuxDistributionen zu bauen. Es kommt mit RPM, DEB und PKGBUILDs (Archlinux) klar. Distributionen die bereits verfügbar sind, wären

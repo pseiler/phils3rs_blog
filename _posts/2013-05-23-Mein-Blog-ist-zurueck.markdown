@@ -2,8 +2,6 @@
 layout: post
 title: Mein Blog ist zurück
 categories: []
-permalink: /archives/26-Mein-Blog-ist-zurueck.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/26-Mein-Blog-ist-zurueck.html
 date: 2013-05-23 13:56:34.000000000 +02:00
 ---
 Hallo zusammen,

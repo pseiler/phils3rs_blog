@@ -3,8 +3,6 @@ layout: post
 title: Zerberstende Munition für die USA
 categories:
 - Politik
-permalink: /archives/5-Zerberstende-Munition-fuer-die-USA.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/5-Zerberstende-Munition-fuer-die-USA.html
 date: 2012-04-24 02:04:00.000000000 +02:00
 ---
 Grad von meinem Mitbewohner einen wunderschönen Beitrag bekommen.

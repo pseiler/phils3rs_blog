@@ -3,8 +3,6 @@ layout: post
 title: 'Counter-Strike: Global Offensive für Linux'
 categories:
 - Gaming
-permalink: /archives/35-Counter-Strike-Global-Offensive-fuer-Linux.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/35-Counter-Strike-Global-Offensive-fuer-Linux.html
 date: 2014-09-30 12:26:52.000000000 +02:00
 ---
 Es ist endlich soweit. Valve hat endlich Counter-Strike: Global Offensive für Linux released. Und ich muss sagen: Gute Arbeit Valve. Der Linux Port läuft flüssig und momentan minimal schlechter wie unter Windows.

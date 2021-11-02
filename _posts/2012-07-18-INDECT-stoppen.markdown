@@ -3,8 +3,6 @@ layout: post
 title: INDECT stoppen
 categories:
 - Netzpolitik
-permalink: /archives/16-INDECT-stoppen.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/16-INDECT-stoppen.html
 date: 2012-07-18 16:10:00.000000000 +02:00
 ---
 Mir fällt gerade auf, das ich noch gar nicht über INDECT berichtet hat. Es ist wieder ein neues Kürzel, das sich die EU ausgedacht hab, um unsere Privatsphäre einzuschränken. Vebrechensbekämpfung soll geschehen bevor überhaupt klar ist, ob denn ein Verbechen begangen wurde. Drohnen sollen über Städte wachen und Menschen beobachten die sich auffällig verhalten. Das beinhaltet Zusammenkünfte von mehreren Personen, sitzen auf dem Boden, hektisches laufen und alle so ziemlich alles was falsch interpretiert werden könnte. Zusätzlich soll das mit dem Internet verknüpft werden und Verhaltensprofile erstellt werden. Das ganze wird in einem Pilotprojekt bewerkstelligt, das unter anderem in Universitäten entwickelt wird. Abgeschlossen soll das 2013 werden und wurde unter anderem bereits in der EM dieses Jahr eingesetzt. Weitere Informationen findet man auf dieser Informationsseite.

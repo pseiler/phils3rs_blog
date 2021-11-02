@@ -3,8 +3,6 @@ layout: post
 title: Die Blase wächst
 categories:
 - Netzpolitik
-permalink: /archives/33-Die-Blase-waechst.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/33-Die-Blase-waechst.html
 date: 2014-06-04 10:25:03.000000000 +02:00
 ---
 Es wird Zeit das ich mich hier mal wieder zu Wort melde. Die ganze Überwachungsaffäre nimmt so ein riesen Ausmaß an, das man sich das kaum noch vorstellen kann. Der GCHQ zapft diverse [Unterseekabel](http://www.heise.de/newsticker/meldung/NSA-Skandal-GCHQ-zapft-angeblich-Unterseekabel-im-Oman-an-2215651.html) an, der BND will Soziale Netzwerke live [überwachen](http://www.heise.de/newsticker/meldung/BND-will-Echtzeit-Ueberwachung-sozialer-Netzwerke-2212289.html), die NSA scannt Millionen Bilder im Internet [pro Tag](http://www.heise.de/newsticker/meldung/Bericht-NSA-durchsucht-das-Netz-nach-Gesichtern-2213641.html) und keine Sau interessiert es. Edward Snowden wird der Asyl in Deutschland verweigert und der Gerenalbundesanwalt hält es nicht für nötig für die Bevölkerung zu ermitteln, stattdessen aber für die [Kanzlerin](http://www.heise.de/newsticker/meldung/NSA-Skandal-Bundesanwalt-will-nur-wegen-abgehoertem-Merkelhandy-ermitteln-2215490.html). Unsere Regierung ist so ein widerlicher heuchlerische Verein, das mir schlecht wird. Vornherum wird Unwissenheit geheuchelt und hinterum werden unsere [Gelder](http://www.heise.de/newsticker/meldung/Deutsche-Steuergelder-flossen-in-NSA-Bau-bei-Griesheim-2197046.html) verwendet um auch Überwachungsapparate der NSA bei uns  auszubauen.

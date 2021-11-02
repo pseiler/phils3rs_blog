@@ -3,8 +3,6 @@ layout: post
 title: evilvte als Terminal Emulator für Windowmanager
 categories:
 - Linux
-permalink: /archives/29-evilvte-als-terminal-emulator-fuer-windowmanager.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/29-evilvte-als-terminal-emulator-fuer-windowmanager.html
 date: 2013-07-04 23:18:43.000000000 +02:00
 ---
 Ich meld mich mal wieder für einen kleinen Tech Post zurück.

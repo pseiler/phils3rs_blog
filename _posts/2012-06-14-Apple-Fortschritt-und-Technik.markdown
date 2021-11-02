@@ -3,8 +3,6 @@ layout: post
 title: Apple - Fortschritt und Technik
 categories:
 - Technik
-permalink: /archives/14-Apple-Fortschritt-und-Technik.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/14-Apple-Fortschritt-und-Technik.html
 date: 2012-06-14 15:10:00.000000000 +02:00
 ---
 Ich las grad auf Fefe diesen [Eintrag](http://blog.fefe.de/?ts=b1265892) und hab nicht schlecht gestaunt wie unverschämt eigentlich Apple ist.

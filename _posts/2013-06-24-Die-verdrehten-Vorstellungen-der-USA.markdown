@@ -2,8 +2,6 @@
 layout: post
 title: Die verdrehten Vorstellungen der USA
 categories: []
-permalink: /archives/28-Die-verdrehten-Vorstellungen-der-USA.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/28-Die-verdrehten-Vorstellungen-der-USA.html
 date: 2013-06-24 14:45:57.000000000 +02:00
 ---
 Heut sprech ich ein Thema an, was mittlerweile jeder mitbekommen haben soll. Es wird auch langsam Zeit das ich zu diesem großen Spektakel etwas schreibe. Die NSA und die Datensammlerei.

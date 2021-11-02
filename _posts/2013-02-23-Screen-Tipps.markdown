@@ -3,8 +3,6 @@ layout: post
 title: Screen Tipps
 categories:
 - Linux
-permalink: /archives/24-Screen-Tipps.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/24-Screen-Tipps.html
 date: 2013-02-23 18:02:00.000000000 +01:00
 ---
 Seit ich auf einen Tiling Windowmanager umgestiegen bin, hab ich auch [screen](http://www.gnu.org/software/screen/) zu schätzen gelernt. Screen ist ein Windowmanager auf Kommandozeilenebene. Man kann von verschiedenen Shells auf die screen Session zugreifen, da screen eine serielle Konsole öffnet. Somit ist das Arbeiten auf einem Terminal mit zwei oder mehreren Personen möglich. So hab ich screen auch kennengelernt.

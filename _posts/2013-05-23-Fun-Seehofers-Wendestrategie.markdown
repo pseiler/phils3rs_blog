@@ -2,8 +2,6 @@
 layout: post
 title: 'Fun: Seehofers Wendestrategie'
 categories: []
-permalink: /archives/25-Fun-Seehofers-Wendestrategie.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/25-Fun-Seehofers-Wendestrategie.html
 date: 2013-05-23 13:50:03.000000000 +02:00
 ---
 Vor einiger Zeit hat mir ein Kumpel mal einen lustigen Link geschickt.

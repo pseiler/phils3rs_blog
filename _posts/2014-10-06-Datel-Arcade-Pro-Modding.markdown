@@ -3,8 +3,6 @@ layout: post
 title: Datel Arcade Pro Modding
 categories:
 - Technik
-permalink: /archives/36-Datel-Arcade-Pro-Modding.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/36-Datel-Arcade-Pro-Modding.html
 date: 2014-10-06 21:36:55.000000000 +02:00
 ---
 Heute widme ich in diesem Blog mal einem anderen Thema. Und zwar geht es um Arcade Sticks und deren Modding. Ich habe mich für ein billiges Model entschieden, da ich für den Einstieg in 2D Beat em' up keinen teuren für 100€+ wollte. Wer weiß schon ob einem so ein Ding liegt. Jedenfalls fand ichs großartig und wollte meinen billigen Stick aufwerten. Nach ein wenig informieren im Internet, bin ich auf die wohl zwei wichtigsten deutschen Seiten zu dem Thema gestoßen. Wenn man Modding Teile braucht, sucht man hier:

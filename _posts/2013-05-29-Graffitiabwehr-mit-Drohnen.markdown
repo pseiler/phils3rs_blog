@@ -3,8 +3,6 @@ layout: post
 title: Graffitiabwehr mit Drohnen
 categories:
 - Privat
-permalink: /archives/27-Graffitiabwehr-mit-Drohnen.html
-s9y_link: http://blog.phils3r.de/index.php?/archives/27-Graffitiabwehr-mit-Drohnen.html
 date: 2013-05-29 10:35:00.000000000 +02:00
 ---
 Die Bahn kauf jetzt Drohnen ein, die Grafitti Sprayer aufhalten soll. 
