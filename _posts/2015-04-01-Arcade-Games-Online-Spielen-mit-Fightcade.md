@@ -26,4 +26,4 @@ Folgende Spiele werden unterstützt:
 * Samurai Showdown 1-5
 * uvm.
 
-Und mit uvm mein ich wirklich noch sehr viel mehr. Ein Blick lohnt sich auf jeden Fall. Für unterwegs perfekt ist es perfekt. Und sei es nur um im Hotel Metal Slug online zu spielen. Habe mit FightCade schon etliche Stunden Spass gehabt und wünsche euch das natürlich auch.
+Und mit uvm mein ich wirklich noch sehr viel mehr. Ein Blick lohnt sich auf jeden Fall. Für unterwegs ist es perfekt. Und sei es nur um im Hotel die ein oder andere Metal Slug Runde online zu spielen. Mit FightCade habe schon etliche Stunden Spass gehabt und wünsche euch das natürlich auch.
