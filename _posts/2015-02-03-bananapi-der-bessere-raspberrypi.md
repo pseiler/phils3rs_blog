@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bananapi - der bessere Raspberry Pi?
+title: Banana Pi - der bessere Raspberry Pi?
 categories:
 - Technik
 date: 2015-02-03 18:26:00.000000000 +02:00
