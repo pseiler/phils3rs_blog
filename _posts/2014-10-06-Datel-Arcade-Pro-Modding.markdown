@@ -15,7 +15,7 @@ Heute widme ich in diesem Blog mal einem anderen Thema. Und zwar geht es um Arca
 Hab bei beidem Materialen eingekauft und von einem Kumpel Lötwerkzeug und Zubehör geliehen. Folgendes wurde benötigt:
 
 1.  PCB mit abgelöteten Kontakten
-2.  [Datel Arcade Pro (Gehäuse)](http://www.amazon.de/PS3-Xbox360-Arcade-Pro-Joystick/dp/B00361GDJM/ref=sr_1_1?ie=UTF8&qid=1412626085&sr=8-1&keywords=datel+arcade+pro) (Gehäuse) 40-60€
+2.  [Datel Arcade Pro](http://www.amazon.de/PS3-Xbox360-Arcade-Pro-Joystick/dp/B00361GDJM/ref=sr_1_1?ie=UTF8&qid=1412626085&sr=8-1&keywords=datel+arcade+pro) (Gehäuse) 40-60€
 3.  8 x [Seimitsu Buttons 30mm in durchsichtigem Orange](http://www.arcadeshop.de/Seimitsu-Buttons-Seimitsu-PS-14-KN-orange_868.html) 31,60€
 4.  [Sanwa Joystick JLF-TP-8YT mit orangem Ball](http://www.arcadeshop.de/product_info.php?products_id=627{1}32) 24,95€
 5.  [Verbindungskable](http://www.arcadeshop.de/Connectors-Joystickharness-CG-5P_1116.html) mit Lötbaren Steckern für den PCB
