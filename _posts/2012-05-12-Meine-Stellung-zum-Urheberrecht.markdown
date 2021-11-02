@@ -1,0 +1,21 @@
+---
+layout: post
+title: Meine Stellung zum Urheberrecht
+categories:
+- Politik
+permalink: /archives/10-Meine-Stellung-zum-Urheberrecht.html
+s9y_link: http://blog.phils3r.de/index.php?/archives/10-Meine-Stellung-zum-Urheberrecht.html
+date: 2012-05-12 10:53:00.000000000 +02:00
+---
+Hab mal wieder auf Spiegel gestöbert und hab mir diesen [Gastbeitrag](http://www.spiegel.de/politik/deutschland/volker-kauder-verteidigt-das-urheberrecht-a-832262.html) über das Uhrheberrecht durchgelesen.
+Teilweise stimmt das schon, was der Mann da sagt. Aber das erste was mich da schon stört, das hier zu viel auf den Konsumenten eingegangen wird, anstatt auch mal die Künstler zu berücksichtigen. Das erste Problem wäre hier schon mal die GEMA. Diese gehört in Deutschland endlich abgeschafft. Die Blutsaugerfirma in Deutschland überhaupt. Machen Millionen an Umsatz und fördern nur die großen Künstler, die weniger einzahlen müssen, aber ziehen die kleinen Künstler ab, die eh schon kaum Kohle verdienen. Aber immer ist der böse Raubmordkopierer Schuld, das Plattenfirmen zu machen und die Künstler kein Geld verdienen. Dazu find ich auch dieses Video sehr passend.
+
+<div class="youtube_player"><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/7-MMqnAw7bY&amp;fs=1&amp;rel=1&amp;border=0&amp;color1=0x3a3a3a&amp;color2=0x999999"/><param name="allowFullScreen" value="true"/><param name="allowscriptaccess" value="always"/><embed src="http://www.youtube.com/v/7-MMqnAw7bY&amp;fs=1&amp;rel=1&amp;border=0&amp;color1=0x3a3a3a&amp;color2=0x999999" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"/></object></div><noscript><a href="http://www.youtube.com/watch?v=7-MMqnAw7bY"/></noscript>
+
+Was ich auch kritisieren möchte wäre die digitale Rechteverwaltung und Kopierschutztechnologien. Wie sollen wir bei einem Großteil der kommerziellen Flatrate Lösungen oder z.B auch bei DVDs und Blue-Rays überhaupt eine digitale legale Kopie erstellen können. Bei allen dieser Möglichkeiten ist man Account gebunden und kann z.B bei Musikflatrates auf legale Weise nur mit einem von der Firma stammenden Player abspielen. Somit kann man die runtergeladene/gekaufte Musik auch nicht auf anderen Geräten anhören. Immerhin haben wir das Zeug gekauft und dürfen theoretisch damit machen was wir wollen. Der große Vorteil von illegal verbreiteten Filmen/Musik/Bildern liegt imo in der Freiheit beim User. Solang die Dateien ein gängiges Format haben, kann man die Dateien plattformunabhängig abspielen.
+
+Um kommerzielle Flatrates wirklich attraktiv zu machen, müssen diese möglichst freie Codecs enthalten und keine restriktiven Lizenzvereinbarungen enthalten. Im Falle einer einer Musikflatrate wünsch ich mir ein Feature, wo man ein monatlichen Festbetrag von sagen wir mal 15€ zahlt, bei dem man nach Monatsabschluss entscheiden kann, welcher Künstler welchen Teil des Gesamtbetrags bekommt. Somit hätten auch vorallem die unbekannteren Künstler mehr davon. Im Falle von Filmen wäre ein ähnliches Konzept auf jeden Fall denkbar. Und damit das mit den Kinos nicht einbricht, muss das logischerweise verzögert angeboten werden. Sollte aber niemanden stören.
+
+Es sollten auf alle Fälle möglich gemacht werden, auf legale Art und Weise kulturelle Inhalte verfügbar zu machen, ohne das die Menschen kriminalisiert werden. Wir haben es ja im Falle des Internets immer wieder gesehen, dass eine Kriminalisierung der Möglichkeiten bzw. die Verfolgung von Internetkriminellen die Daten tauschen, zu verfolgen nichts bringt. Tauschbörsennetzwerke (Gnutella Netz, Torrents und Filehoster). Es wird immer wieder neue Möglichkeiten geben über das Internet unbemerkt/anonym Dateien zu tauschen. Daher halte ich die Legalisierung von Tauschbörsen gar nicht so blöd. Um die Kriminalität dahingegen einzuschränken müssen wie gesagt, für jeden erschwingliche legale Flatrates angeboten werden.
+
+Und da ja der Großteil der illegalen Musikdownloader auf die Qualität der Musikdownloads scheißen, und auch bei einem legalen Angebot drauf scheißen werden, haben CDs mit perfekter Studioqualität immernoch ihre Daseinsberechtigung. Außerdem sind CDs sowieso cool, da hat man wenigstens noch etwas in der Hand und dazu ein coole Booklet mit meist exklusiven Bildern und Lyrics.

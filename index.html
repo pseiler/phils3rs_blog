@@ -1,0 +1,15 @@
+---
+layout: default
+title: Phils3rs Blog
+---
+
+<div id="home">
+  <h1>Blog Posts</h1>
+<ul class="posts">
+  {% for post in site.posts %}
+    <li><span><font size=+1>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}"><b>{{ post.title }}</b></a></font>
+      {{ post.excerpt }}<br>
+    </li>
+  {% endfor %}
+</ul>
+</div>
