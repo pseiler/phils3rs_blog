@@ -7,12 +7,12 @@ categories:
 date: 2022-12-06 21:00:00.000000000 +02:00
 ---
 
-Das die klassische Xbox (OG Xbox) ein Problem mit den Kondensatoren bzw. den Elektrolytkondensatoren (kurz Elkos) haben, dürfte Enthusiasten längst bekannt sein. Allen voran der sogenannte "Clock Capacitor" (Zeit-Kondensator). Dieser läuft bei den meisten Revisionen als erstes aus, ist aber nicht der einzige Problemfall. Meine Xbox Mainboard Revision 1.4 ist hiervon auch betroffen und benötigt daher neue.
+Das die klassische Xbox (OG Xbox) ein Problem mit den Kondensatoren bzw. den Elektrolytkondensatoren (kurz Elkos) haben, dürfte Enthusiasten längst bekannt sein. Allen voran der sogenannte "Clock Capacitor" (Zeit-Kondensator). Dieser läuft bei den meisten Revisionen als erstes aus, ist aber nicht der einzige Problemfall. Meine Xbox mit Mainboard Revision 1.4 ist hiervon auch betroffen und benötigt daher auch schon ein paar neue in der Nähe des CPUs.
 
 Sogleich hab ich mich auf die Suche nach Informationen begeben. Die erste Anlaufstelle für Enthusiasten ist bekanntermaßen das [Wiki von Console5](https://wiki.console5.com/wiki/Microsoft_Xbox#v1.4). Hier werden alle Elkos gelistet, nur fehlen entscheidende Angabe wie z.B. die Höhe, das Rastermaß und der Durchmesser.
 
 Diese Angaben hab ich selbst gemessen und ergänzt.
-Im Folgenden findet ihr eine Tabelle mit allen Elkos, ihren Größen, Rastermaßen und Mainboardbeschriftungen.
+Im Folgenden findet ihr eine Tabelle mit allen Elkos, ihren Größen, Rastermaßen und Mainboardbeschriftungen (Abweichungen nicht ausgeschlossen).
 
 | **Menge** | **Typ** | **Kapazität** | **Spannung** | **Rastermaß** | **Höhe** | **Durchmesser** | **Mainboard Positionen** |
 |-----------|---------|---------------|--------------|---------------|----------|-----------------|--------------------------|
@@ -28,5 +28,5 @@ Im Folgenden findet ihr eine Tabelle mit allen Elkos, ihren Größen, Rastermaß
 
 Bei einer Sache bin ich mir noch nicht sicher, was genau sie zu bedeuten hat. Die 1500 μF Elkos sind komplett grau und unterscheiden sich farblich komplett von den anderen. Ob die eine zusätzliche Funktion haben, ist mir bisher nicht bekannt. Sollte ich hierzu ein Erkenntnisgewinn haben, editier ich die Informationen selbstverständlich.
 
-Zum Abschluss noch ein Bild des Xbox v1.4 Mainboards. Die 3300 uF 6.3V Elkos sind auf dem bereits ausgelötet.
+Zum Abschluss noch ein Bild des Xbox v1.4 Mainboards. Die 3300 μF 6.3V Elkos sind auf dem bereits ausgelötet.
 ![Xbox v1.4](/images/xbox_classic_v14.jpg)
