@@ -27,3 +27,6 @@ Im Folgenden findet ihr eine Tabelle mit allen Elkos, ihren Größen, Rastermaß
 | 1         | Radial  | 1F            | 2.5V         | 3mm           | 12.5mm   | 7.7mm           | C7G2 (Clock Cap)         |
 
 Bei einer Sache bin ich mir noch nicht sicher, was genau sie zu bedeuten hat. Die 1500 μF Elkos sind komplett grau und unterscheiden sich farblich komplett von den anderen. Ob die eine zusätzliche Funktion haben, ist mir bisher nicht bekannt. Sollte ich hierzu ein Erkenntnisgewinn haben, editier ich die Informationen selbstverständlich.
+
+Zum Abschluss noch ein Bild des Xbox v1.4 Mainboards. Die 3300 uF 6.3V Elkos sind auf dem bereits ausgelötet.
+![Xbox v1.4](/images/xbox_classic_v14.jpg)
