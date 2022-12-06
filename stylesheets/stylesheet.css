@@ -424,7 +424,9 @@ table {
 
 td,
 th {
-  padding: 0;
+  /* padding: 0; */
+  padding-left: 0.3em;
+  padding-right: 0.3em;
 }
 
 /* LAYOUT STYLES */
@@ -607,6 +609,7 @@ table {
 
 th {
   font-weight: 500;
+  background-color: lightgray;
 }
 
 td {
