@@ -24,6 +24,6 @@ Im Folgenden findet ihr eine Tabelle mit allen Elkos, ihren Größen, Rastermaß
 | 13        | Radial  | 22 μF         | 25V          | 2.5mm         | 12mm     | 5mm             | C1G3, C1G6, C2G2, C3F6, C3G1, C4G4, C4G8, C5F5, C6G1, C7B5, C7G6, C8C2, C8E3 (gerne mal ein SMD Elko) |
 | 5         | SMD     | 10 μF         | 16V          | -             | 5.8mm    | 4mm             | C6A10, C6A11, C6A4, C6B4, C6B6 |
 | 1         | SMD     | 47 μF         | 16V          | -             | 5.8mm    | 6.5mm           | C7B2                     |
-
+| 1         | Radial  | 1F            | 2.5V         | 3mm           | 12.5mm   | 7.7mm           | C7G2 (Clock Cap)         |
 
 Bei einer Sache bin ich mir noch nicht sicher, was genau sie zu bedeuten hat. Die 1500 μF Elkos sind komplett grau und unterscheiden sich farblich komplett von den anderen. Ob die eine zusätzliche Funktion haben, ist mir bisher nicht bekannt. Sollte ich hierzu ein Erkenntnisgewinn haben, editier ich die Informationen selbstverständlich.
