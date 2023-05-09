@@ -1,19 +1,22 @@
 ---
 layout: default
 title: Partner und Links
+permalink: /links/
 friends: Freunde
 communities: Communitys
-permalink: /links/
 ---
-
 <div id="about">
-  <h1>Partner und Links</h1>
-    <h3>Freunde</h3>
+  <h3>Partner und Links</h3>
+    <h4>Freunde</h4>
+      <ul>
 {% for item in site.data.links[page.friends] -%}
-      <li><a href="{{ item.link }}">{{ item.name }}</a>
+          <li><a href="{{ item.link }}">{{ item.name }}</a>
 {% endfor -%}
-    <h3>Communitys & Webseiten</h3>
+      </ul>
+    <h4>Communitys & Webseiten</h4>
+      <ul>
 {% for item in site.data.links[page.communities] -%}
-      <li><a href="{{ item.link }}">{{ item.name }}</a>
+          <li><a href="{{ item.link }}">{{ item.name }}</a>
 {% endfor -%}
+      </ul>
 </div>
