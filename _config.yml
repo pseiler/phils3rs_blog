@@ -1,7 +1,6 @@
 name: Phils3rs Blog
 description: Persönlicher Blog rund ums Thema Linux, Software kompilieren, Hardware Modding und Politik
 markdown: kramdown
-baseurl: ""
 url: "https://blog.phils3r.de"
 encoding: "utf-8"
 paginate: 8
