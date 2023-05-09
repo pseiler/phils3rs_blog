@@ -1,7 +1,25 @@
----
-layout: postheader
----
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
+<!DOCTYPE html>
+<html lang=de">
+  <head>
+{% include header.html -%}
+  </head>
+  <body>
+    <header>
+      <div class="inner">
+        <h1> <a href="/index.html" class="blog_title">{{ site.name }}</a> </h1>
+        <h2>Geistige Ergüsse aus Bayern</h2>
+      </div>
+    </header>
 
-{{ content }}
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+            <h2>{{ page.title }}</h2>
+            <p class="meta">{{ page.date | date_to_string }}</p>
+            {{ content }}
+        </section>
+{% include sidebar.html -%}
+      </div>
+    </div>
+  </body>
+</html>

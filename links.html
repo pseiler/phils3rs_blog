@@ -1,23 +1,18 @@
 ---
 layout: default
 title: Partner und Links
+friends: Freunde
+communities: Communitys
 ---
 
 <div id="about">
   <h1>Partner und Links</h1>
-<strong>Kollegen:
-</strong>
-    <li><a href=http://pixx-it.oakey-dev.eu/><s>Pixx it or it didn't happen</s></a>
-    <li><a href=http://seife.kernalert.de/blog><s>Seife Kernalert</s></a>
-    <li><a href=http://www.karim-geiger.de/>Karim Geigers Blog</a>
-    <li><a href=http://vinny-vieh.de/><s>Vinney Vieh</s></a>
-    </br></br>
-<strong>Foren:
-</strong>
-<li><a href=https://www.hardedge.org/>HardEdge</a>
-<li><a href=http://ger-calibur.de/>Ger-Calibur</a>
-</br></br>
-<strong>Webseiten:
-</strong>
-<li><a href=http://randomfs.de/>RandomFS</a>
+    <h3>Freunde</h3>
+{% for item in site.data.links[page.friends] -%}
+      <li><a href="{{ item.link }}">{{ item.name }}</a>
+{% endfor -%}
+    <h3>Communitys & Webseiten</h3>
+{% for item in site.data.links[page.communities] -%}
+      <li><a href="{{ item.link }}">{{ item.name }}</a>
+{% endfor -%}
 </div>
